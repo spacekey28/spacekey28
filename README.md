@@ -1,12 +1,21 @@
 [![Header](https://spacekey28.s3-ap-southeast-1.amazonaws.com/header-linkedin.jpeg "Header")](https://peteson.me/)
 
-### Hi there 👋
+## Hi there 👋
+
+I'm Peter. Front-end web developer based in Auckland, New Zealand. While not coding, I love playing basketball and watching movies. Thank you for visiting!
+
+<!-- Actual text -->
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+
+<!-- Icons -->
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+[1]: https://twitter.com/spacekey28
+[2]: https://www.linkedin.com/in/peter-son/
 
 <!--
-**spacekey28/spacekey28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
