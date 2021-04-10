@@ -5,7 +5,7 @@
 I'm Peter. Front-end web developer based in Auckland, New Zealand. While not coding, I love playing basketball and watching movies. Thank you for visiting!
 
 <!-- Actual text -->
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
