@@ -1,5 +1,4 @@
-<img src="https://spacekey28.s3-ap-southeast-1.amazonaws.com/header-linkedin.jpeg" alt="peteson.me" width="854">
-[![welcome](https://spacekey28.s3-ap-southeast-1.amazonaws.com/header-linkedin.jpeg "welcome")](https://peteson.me/)){:width="854px"}
+[![peteson.me](https://spacekey28.s3-ap-southeast-1.amazonaws.com/header-linkedin.jpeg){:width="854px"}](https://peteson.me/))
 
 ## Hi there 👋
 
