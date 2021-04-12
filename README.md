@@ -1,4 +1,4 @@
-[![peteson.me](https://spacekey28.s3-ap-southeast-1.amazonaws.com/header-linkedin.jpeg "peteson.me")](https://peteson.me/) <!-- .element width="100%" -->
+<a href="https://peteson.me/"><img src="https://spacekey28.s3-ap-southeast-1.amazonaws.com/header-linkedin.jpeg" align="left" width="100%" alt="peteson.me" ></a>
 
 ## Hi there 👋
 
