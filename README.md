@@ -1,4 +1,3 @@
-[![Header](https://spacekey28.s3-ap-southeast-1.amazonaws.com/header-linkedin.jpeg "peteson.me")](https://peteson.me/)
 <img src="https://spacekey28.s3-ap-southeast-1.amazonaws.com/header-linkedin.jpeg" alt="peteson.me" width="854">
 
 ## Hi there 👋
