@@ -1,5 +1,5 @@
-<a href="https://peteson.me/"><img src="https://spacekey28.s3-ap-southeast-1.amazonaws.com/header-linkedin.jpeg" align="left" width="100%" alt="peteson.me" ></a>
-
+<a href="https://peteson.me/"><img src="https://spacekey28.s3-ap-southeast-1.amazonaws.com/header-linkedin.jpeg" align="left" width="100%" ></a>
+###
 ## Hi there 👋
 
 I'm Peter. Front-end web developer based in Auckland, New Zealand. While not coding, I love playing basketball and watching movies. Thank you for visiting!
