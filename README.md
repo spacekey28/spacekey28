@@ -1,4 +1,4 @@
-[![Header](https://spacekey28.s3-ap-southeast-1.amazonaws.com/header-linkedin.jpeg "Header")](https://peteson.me/)
+[![Header](https://spacekey28.s3-ap-southeast-1.amazonaws.com/header-linkedin.jpeg "peteson.me")](https://peteson.me/){ width=100% }
 
 ## Hi there 👋
 
