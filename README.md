@@ -1,4 +1,4 @@
-<a href="https://peteson.me/" style="margin-bottom: 20px;"><img src="https://spacekey28.s3-ap-southeast-1.amazonaws.com/header-linkedin.jpeg" align="left" width="100%" ></a>
+<a href="https://peteson.me/" style="margin-bottom: 20px;"><img src="https://spacekey28.s3-ap-southeast-1.amazonaws.com/header-linkedin.jpeg" width="100%" ></a>
   
   
 ## Hi there 👋
