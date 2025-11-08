@@ -3,13 +3,6 @@
 
 I'm Peter. Front-end web developer based in Auckland, New Zealand. While not coding, I love playing basketball and watching movies. Thank you for visiting!
 
-<!-- Actual text -->
-You can find me on [![Twitter][1.2]][1] or [![LinkedIn][2.2]][2].
-
-<!-- Icons -->
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://spacekey28.s3-ap-southeast-1.amazonaws.com/linkedin.png (LinkedIn icon without padding)
-
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
