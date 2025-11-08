@@ -10,10 +10,6 @@ You can find me on [![Twitter][1.2]][1] or [![LinkedIn][2.2]][2].
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: https://spacekey28.s3-ap-southeast-1.amazonaws.com/linkedin.png (LinkedIn icon without padding)
 
-<!-- Links to your social media accounts -->
-[1]: https://twitter.com/spacekey28
-[2]: https://www.linkedin.com/in/peter-son/
-
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
